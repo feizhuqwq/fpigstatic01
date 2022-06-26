@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2621669 */
+  src: url('https://at.alicdn.com/t/font_2621669_cifvziirfai.woff2?t=1643182828777') format('woff2'),
+       url('https://at.alicdn.com/t/font_2621669_cifvziirfai.woff?t=1643182828777') format('woff'),
+       url('https://at.alicdn.com/t/font_2621669_cifvziirfai.ttf?t=1643182828777') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 25px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-weixin:before {
+  content: "\e660";
+}
+
+.icon-FeizhuBtv:before {
+  content: "\e652";
+}
+
+.icon-FeizhuQQ:before {
+  content: "\e666";
+}
+
+.icon-FeizhuBiliBili:before {
+  content: "\e69c";
+}
+
+.icon-tubiao209:before {
+  content: "\e61a";
+}
+
+.icon-FeizhuOrigin:before {
+  content: "\e622";
+}
+
+.icon-youxiang:before {
+  content: "\e607";
+}
+
+.icon-FeizhuUBI:before {
+  content: "\ecf2";
+}
+
+.icon-youxiang1:before {
+  content: "\e681";
+}
+
+.icon-feizhusteam:before {
+  content: "\e600";
+}
